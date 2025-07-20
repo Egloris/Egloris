@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Egloris and I'm a Roblox Game Developer! 🎮</p>
+<p align="left">My name is Egloris, and I'm a Game Developer! 🎮</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating the Games of the Future<br>📚 I'm currently improving JavaScript, C# and C++<br>🎯 Goals: Make my players have fun!<br>🎲 Fun fact: I started coded at age 10</p>
+<p align="left">✨ Creating the Games of the Future<br>📚 I'm currently improving TypeScript, C# and C++<br>🎯 Goals: Make my players have fun!<br>🎲 Fun fact: I started coded at age 10</p>
 
 ###
 
