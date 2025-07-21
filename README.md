@@ -1,32 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey there! I'm Egloris 👋✨
 
-###
+Welcome to my corner of the internet! I'm a 16-year-old developer, passionate about creating vibrant, community-focused games and exploring the exciting world of tech.
 
-<p align="left">My name is Egloris, and I'm a Game Developer! 🎮</p>
+---
 
-###
+## 🐾 About Me & Loris Games
 
-<h2 align="left">About Me 📝</h2>
+I'm **Egloris**, founder of **Loris Games**, an indie studio crafting warm, personality-filled game experiences. My journey in game dev started at 9 on Roblox, hitting a peak of 7,000 players in one of my games! I'm a self-taught learner, always pushing to understand new concepts by rephrasing them in my own words.
 
-###
+---
 
-<p align="left">✨ Creating the Games of the Future<br>📚 I'm currently improving TypeScript, C# and C++<br>🎯 Goals: Make my players have fun!<br>🎲 Fun fact: I started coded at age 10</p>
 
-###
+## 💻 My Tech & Learning Journey
 
-<h2 align="left">I code with 🧑🏻‍💻</h2>
+I'm proficient in **Lua** (from my Roblox days) and have experience with **HTML, CSS, JavaScript** and some **C#**.
 
-###
+Right now, I'm diving deep into the **Roblox TypeScript stack with Flamework and React**. I'm mastering this ecosystem as the future foundation for all my Roblox games.
 
-<div align="left">
-  <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/lua.png" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" height="40" alt="c# logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="c++ logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+## 📊 My Hackatime Stats
+
+Curious about what I've been coding? Here are my recent Hackatime stats!
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=14669&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark_dimmed)
