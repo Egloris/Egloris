@@ -1,12 +1,12 @@
 # Hey there! I'm Egloris 👋✨
 
-Welcome to my corner of the internet! I'm a 16-year-old developer, passionate about creating vibrant, community-focused games and exploring the exciting world of tech.
+Welcome to my corner of the internet! I'm a game developer, passionate about creating vibrant, community-focused games and exploring the exciting world of tech.
 
 ---
 
 ## 🐾 About Me & Loris Games
 
-I'm **Egloris**, founder of **Loris Games**, an indie studio crafting warm, personality-filled game experiences. My journey in game dev started at 9 on Roblox, hitting a peak of 7,000 players in one of my games! I'm a self-taught learner, always pushing to understand new concepts by rephrasing them in my own words.
+I'm **Egloris**, founder of **Loris Games**, an indie studio crafting warm, personality-filled game experiences. My journey in game dev started at 11 on Roblox, hitting a peak of 7,000 players in one of my games! I'm a self-taught learner, always pushing to understand new concepts by rephrasing them in my own words.
 
 ---
 
